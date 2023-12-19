@@ -21,7 +21,7 @@ import (
 	"github.com/go-jose/go-jose/v3/json"
 	"github.com/stretchr/testify/require"
 
-	"github.com/livekit/protocol/auth"
+	"github.com/akhmadali22/protocol/auth"
 )
 
 func TestVerifier(t *testing.T) {

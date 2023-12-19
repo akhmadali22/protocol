@@ -17,7 +17,7 @@ package ingress
 import (
 	"testing"
 
-	"github.com/livekit/protocol/livekit"
+	"github.com/akhmadali22/protocol/livekit"
 	"github.com/stretchr/testify/require"
 )
 

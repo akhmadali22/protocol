@@ -21,7 +21,7 @@ import (
 	"github.com/prometheus/procfs"
 	"go.uber.org/atomic"
 
-	"github.com/livekit/protocol/logger"
+	"github.com/akhmadali22/protocol/logger"
 )
 
 // This object returns cgroup quota aware cpu stats. On other systems than Linux,

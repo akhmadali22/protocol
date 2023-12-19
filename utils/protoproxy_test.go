@@ -22,7 +22,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/livekit/protocol/livekit"
+	"github.com/akhmadali22/protocol/livekit"
 )
 
 func TestProtoProxy(t *testing.T) {

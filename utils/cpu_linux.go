@@ -27,7 +27,7 @@ import (
 
 	"github.com/prometheus/procfs"
 
-	"github.com/livekit/protocol/logger"
+	"github.com/akhmadali22/protocol/logger"
 )
 
 var (

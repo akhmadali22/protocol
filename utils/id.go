@@ -22,7 +22,7 @@ import (
 	"github.com/jxskiss/base62"
 	"github.com/lithammer/shortuuid/v4"
 
-	"github.com/livekit/protocol/livekit"
+	"github.com/akhmadali22/protocol/livekit"
 )
 
 const GuidSize = 12

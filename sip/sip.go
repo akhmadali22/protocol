@@ -20,9 +20,9 @@ import (
 	"regexp"
 	"sort"
 
-	"github.com/livekit/protocol/livekit"
-	"github.com/livekit/protocol/logger"
-	"github.com/livekit/protocol/rpc"
+	"github.com/akhmadali22/protocol/livekit"
+	"github.com/akhmadali22/protocol/logger"
+	"github.com/akhmadali22/protocol/rpc"
 )
 
 // DispatchRulePriority returns sorting priority for dispatch rules. Lower value means higher priority.

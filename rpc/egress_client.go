@@ -21,7 +21,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/livekit/protocol/livekit"
+	"github.com/akhmadali22/protocol/livekit"
 	"github.com/livekit/psrpc"
 	"github.com/livekit/psrpc/pkg/middleware"
 )

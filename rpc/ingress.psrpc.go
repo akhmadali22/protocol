@@ -14,7 +14,7 @@ import (
 	"github.com/livekit/psrpc/version"
 )
 import google_protobuf "google.golang.org/protobuf/types/known/emptypb"
-import livekit3 "github.com/livekit/protocol/livekit"
+import livekit3 "github.com/akhmadali22/protocol/livekit"
 
 var _ = version.PsrpcVersion_0_5
 

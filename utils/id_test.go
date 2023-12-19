@@ -19,7 +19,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/livekit/protocol/livekit"
+	"github.com/akhmadali22/protocol/livekit"
 )
 
 func TestMarshalUnmarshalGuid(t *testing.T) {

@@ -17,7 +17,7 @@ package utils
 import (
 	"time"
 
-	"github.com/livekit/protocol/livekit"
+	"github.com/akhmadali22/protocol/livekit"
 	"google.golang.org/protobuf/types/known/timestamppb"
 )
 

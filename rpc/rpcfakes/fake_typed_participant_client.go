@@ -5,8 +5,8 @@ import (
 	"context"
 	"sync"
 
-	"github.com/livekit/protocol/livekit"
-	"github.com/livekit/protocol/rpc"
+	"github.com/akhmadali22/protocol/livekit"
+	"github.com/akhmadali22/protocol/rpc"
 	"github.com/livekit/psrpc"
 )
 

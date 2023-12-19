@@ -26,9 +26,9 @@ import (
 	"go.uber.org/atomic"
 	"google.golang.org/protobuf/encoding/protojson"
 
-	"github.com/livekit/protocol/auth"
-	"github.com/livekit/protocol/livekit"
-	"github.com/livekit/protocol/logger"
+	"github.com/akhmadali22/protocol/auth"
+	"github.com/akhmadali22/protocol/livekit"
+	"github.com/akhmadali22/protocol/logger"
 )
 
 type URLNotifierParams struct {

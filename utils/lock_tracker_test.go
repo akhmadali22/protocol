@@ -23,7 +23,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/livekit/protocol/utils"
+	"github.com/akhmadali22/protocol/utils"
 )
 
 func init() {

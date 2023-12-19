@@ -17,7 +17,7 @@ package pionlogger
 import (
 	"github.com/pion/logging"
 
-	"github.com/livekit/protocol/logger"
+	"github.com/akhmadali22/protocol/logger"
 )
 
 var (

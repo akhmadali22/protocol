@@ -25,8 +25,8 @@ import (
 	"github.com/stretchr/testify/require"
 	"go.uber.org/atomic"
 
-	"github.com/livekit/protocol/auth"
-	"github.com/livekit/protocol/livekit"
+	"github.com/akhmadali22/protocol/auth"
+	"github.com/akhmadali22/protocol/livekit"
 )
 
 const (

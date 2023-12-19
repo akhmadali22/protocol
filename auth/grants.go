@@ -19,7 +19,7 @@ import (
 
 	"golang.org/x/exp/slices"
 
-	"github.com/livekit/protocol/livekit"
+	"github.com/akhmadali22/protocol/livekit"
 )
 
 type VideoGrant struct {

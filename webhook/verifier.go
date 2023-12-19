@@ -22,8 +22,8 @@ import (
 
 	"google.golang.org/protobuf/encoding/protojson"
 
-	"github.com/livekit/protocol/auth"
-	"github.com/livekit/protocol/livekit"
+	"github.com/akhmadali22/protocol/auth"
+	"github.com/akhmadali22/protocol/livekit"
 )
 
 // Receive reads and verifies incoming webhook is signed with key/secret pair

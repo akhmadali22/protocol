@@ -21,7 +21,7 @@
 package rpc
 
 import (
-	livekit "github.com/livekit/protocol/livekit"
+	livekit "github.com/akhmadali22/protocol/livekit"
 	_ "github.com/livekit/psrpc/protoc-gen-psrpc/options"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"

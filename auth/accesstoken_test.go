@@ -22,7 +22,7 @@ import (
 	"github.com/go-jose/go-jose/v3/jwt"
 	"github.com/stretchr/testify/require"
 
-	"github.com/livekit/protocol/utils"
+	"github.com/akhmadali22/protocol/utils"
 )
 
 func TestAccessToken(t *testing.T) {
