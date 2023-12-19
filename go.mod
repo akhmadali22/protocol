@@ -1,6 +1,6 @@
 module github.com/akhmadali22/protocol
 
-go 1.21.5
+go 1.20
 
 require (
 	github.com/eapache/channels v1.1.0
