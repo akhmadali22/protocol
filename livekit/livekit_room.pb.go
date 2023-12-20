@@ -454,6 +454,10 @@ type ListParticipantsResponse struct {
 	Participants []*ParticipantInfo `protobuf:"bytes,1,rep,name=participants,proto3" json:"participants,omitempty"`
 }
 
+func (response *ListParticipantsResponse) CountParticipants() int {
+	return len(response.Participants)
+}
+
 func (x *ListParticipantsResponse) Reset() {
 	*x = ListParticipantsResponse{}
 	if protoimpl.UnsafeEnabled {
